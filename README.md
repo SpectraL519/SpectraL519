@@ -33,7 +33,8 @@ I'm also a **5G R&D Working Student (C++ SW Developer)** at **Nokia**.
 
 <h3 align="left">Currently working on</h3>
 
-* [cpp-gl](https://github.com/SpectraL519/cpp-gl) - A general purpose C++ graph library
+* [cpp-gl](https://github.com/SpectraL519/cpp-gl) - A general purpose C++20 graph library
+* [cpp-cf](https://github.com/SpectraL519/cpp-cf) - A chainable functor class for C++20
 
 <br/>
 
