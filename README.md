@@ -10,38 +10,32 @@ I'm also a **5G R&D Working Student (C++ SW Developer)** at **Nokia**.
 
 <br/>
 
-<h3 align="left">I code with</h3>
+<h3 align="left">:computer: Tech stack</h3>
 <p align="left"> 
   <a href="https://en.cppreference.com/w/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-line.svg" alt="cplusplus" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" alt="cplusplus" width="40" height="40"/> 
   </a> 
   <a href="https://en.cppreference.com/w/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg" alt="c" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="c" width="40" height="40"/> 
   </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
   </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
+  <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="40"/> 
+  </a>
 </p>
 
 <br/>
 
-<h3 align="left">Currently working on</h3>
+<h3 align="left">:construction_worker: Currently working on</h3>
 
-* [cpp-gl](https://github.com/SpectraL519/cpp-gl) - A general purpose C++20 graph library
-* [cpp-cf](https://github.com/SpectraL519/cpp-cf) - A chainable functor class for C++20
-* [cpp-ap](https://github.com/SpectraL519/cpp-ap) - Argument parser for C++20
+* [v1.1](https://github.com/SpectraL519/cpp-ap/tree/cppap-rel-1.1) of [cpp-ap](https://github.com/SpectraL519/cpp-ap) - Command-line argument parser for C++20
 
 <br/>
 
 <h3 align="left">Other projects</h3>
 
-* [TicTacToe-Master](https://github.com/SpectraL519/TicTacToe-Master) - An extensive TicTacToe mobile game (currently on hold)
 * School / University:
   * [PWr](https://github.com/SpectraL519/PWr) - Collection of projects developed at the university
   * [LO_XIV](https://github.com/SpectraL519/LO_XIV) - Collection of programs developed in high school
@@ -52,4 +46,4 @@ I'm also a **5G R&D Working Student (C++ SW Developer)** at **Nokia**.
 <br/>
 <br/>
 
-📫 How to reach me **jmusial2003@gmail.com**
+📫 Contact: **jmusial2003@gmail.com**
