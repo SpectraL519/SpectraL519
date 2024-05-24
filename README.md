@@ -30,7 +30,9 @@ I'm also a **5G R&D Working Student (C++ SW Developer)** at **Nokia**.
 
 <h3 align="left">:construction_worker: Currently working on</h3>
 
-* [v1.1](https://github.com/SpectraL519/cpp-ap/tree/cppap-rel-1.1) of [cpp-ap](https://github.com/SpectraL519/cpp-ap) - Command-line argument parser for C++20
+* Finishing the 6th semester of my bachelor's degree in Algorithmic Computer Science
+* [v1.2](https://github.com/SpectraL519/cpp-ap/tree/cppap-rel-1.2) of [cpp-ap](https://github.com/SpectraL519/cpp-ap) - Command-line argument parser for C++20
+* [v1.0](https://github.com/SpectraL519/pyconstclasses/tree/pycc-v1.0) of [pyconstclasses](https://github.com/SpectraL519/pyconstclasses) - Python package with const class decorators and utility
 
 <br/>
 
