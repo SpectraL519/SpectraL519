@@ -30,7 +30,9 @@ I'm also a **5G R&D Working Student (C++ SW Developer)** at **Nokia**.
 
 <h3 align="left">:construction_worker: Currently working on</h3>
 
-* My Bachelor of Engineering project :smiley:
+* My Bachelor of Engineering project:
+  
+  [CPP-GL: General purpose header-only template graph library for C++20 and newer standards](https://github.com/SpectraL519/cpp-gl)
 
 <br/>
 
