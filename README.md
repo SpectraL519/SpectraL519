@@ -4,7 +4,7 @@ I am a C++ software engineer at Nokie. I have a Bachelor of Engineering degree i
 
 <br/>
 
-## :computer: Main tech stack
+## :computer: Tech Stack
 
 <p align="left">
   <a href="https://en.cppreference.com/w/" target="_blank" rel="noreferrer">
@@ -23,33 +23,24 @@ I am a C++ software engineer at Nokie. I have a Bachelor of Engineering degree i
 
 <br/>
 
-## :file_folder: My projects
+## :file_folder: My Projects
 
 ### 🛠 Libraries
 
-- **[cpp-ap](https://github.com/SpectraL519/cpp-ap)** – Command-line argument parser for C++20
-
-- **[pypformat](https://github.com/SpectraL519/pypformat)** - Python pretty formatting package (installable via [pip](https://pypi.org/project/pypformat/))
-
-  *Designed as an alternative to the builtin `pprint` library*
-
-- **[pyconstclasses](https://github.com/SpectraL519/pyconstclasses)** – Python package providing const class decorators and utilities (installable via [pip](https://pypi.org/project/pyconstclasses/))
-
-<br />
+| Project | Description |
+| :- | :- |
+| **[cpp-ap](https://github.com/SpectraL519/cpp-ap)** | Command-line argument parser for C++20 |
+| **[pypformat](https://github.com/SpectraL519/pypformat)** | Python pretty formatting package ([pip](https://pypi.org/project/pypformat/))<br>*Designed as an alternative to the builtin `pprint` library* |
+| **[pyconstclasses](https://github.com/SpectraL519/pyconstclasses)** | Python package providing const class decorators and utilities ([pip](https://pypi.org/project/pyconstclasses/)) |
 
 ### 🎓 University Projects
 
-- **[PWr](https://github.com/SpectraL519/PWr)** – Collection of projects developed at the university
-
-  - **[cpp-gl](https://github.com/SpectraL519/cpp-gl)** – General-purpose, header-only template graph library for modern C++
-
-    *My Bachelor of Engineering project*
-
-  - **[jftt-compiler](https://github.com/SpectraL519/jftt-compiler)** – Direct (naive) compiler for a simple imperative language
-
-    *Final project for* ***Formal Languages and Translation Techniques*** *course*
-
-  - **[PWR-S6-JPP](https://github.com/SpectraL519/PWR-S6-JPP)** – Programs developed for the ***Programming Languages and Paradigms*** course
+| Project | Description |
+| :- | :- |
+| **[PWr](https://github.com/SpectraL519/PWr)** | Collection of projects developed at the university |
+| **[cpp-gl](https://github.com/SpectraL519/cpp-gl)** | General-purpose, header-only template graph library for modern C++<br>*My Bachelor of Engineering project* |
+| **[jftt-compiler](https://github.com/SpectraL519/jftt-compiler)** | Direct (naive) compiler for a simple imperative language<br>*Final project for* ***Formal Languages and Translation Techniques*** *course* |
+| **[PWR-S6-JPP](https://github.com/SpectraL519/PWR-S6-JPP)** | Collection of programs developed for the ***Programming Languages and Paradigms*** course |
 
 <br/>
 <br/>
