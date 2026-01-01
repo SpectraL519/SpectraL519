@@ -29,7 +29,7 @@ I am a C++ software engineer at Nokie. I have a Bachelor of Engineering degree i
 
 | Project | Description |
 | :- | :- |
-| **[cpp-ap](https://github.com/SpectraL519/cpp-ap)** | Command-line argument parser for C++20 |
+| **[cpp-argon](https://github.com/SpectraL519/cpp-argon)** | Command-Line Argument Parser for C++20 |
 | **[pypformat](https://github.com/SpectraL519/pypformat)** | Python pretty formatting package ([pip](https://pypi.org/project/pypformat/))<br>*Designed as an alternative to the builtin `pprint` library* |
 | **[pyconstclasses](https://github.com/SpectraL519/pyconstclasses)** | Python package providing const class decorators and utilities ([pip](https://pypi.org/project/pyconstclasses/)) |
 
